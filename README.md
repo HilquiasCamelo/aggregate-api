@@ -44,8 +44,6 @@ Esta API é projetada para unificar e consolidar dados de várias fontes em um �
    mvn spring-boot:run
    ```
 
-## Documentação da API
-A documentação da API pode ser acessada em `http://localhost:8080/swagger-ui/index.html` após iniciar a aplicação. Isso utilizará o Springdoc OpenAPI UI, permitindo que você visualize e interaja com os endpoints disponíveis.
 
 ## Testes
 Para rodar os testes automatizados do projeto, utilize o seguinte comando:
